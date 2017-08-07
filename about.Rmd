@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+![](leahheadshot.jpg)
+
+- __Name:__ Leah
+- __Ocupation:__ UBC School of Kinesiology Co-op Program Assistant
+- __Hobbies:__ Learning software development, sewing, and baking.

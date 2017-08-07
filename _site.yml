@@ -1,9 +1,13 @@
 name: "leahs-website"
 output_dir: "."
 navbar:
-  title: "Leah's Website"
+  title: "Leah Meanwell"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: spacelab
+    css: style.css
